@@ -7,6 +7,7 @@ Machine Learning Specialization -- Offered by Standford
 
 ***Personal Notes:*** https://drive.google.com/file/d/1p-jURWcMEi7SYH7OzBX0OUGYy3h1WsJV/view?usp=sharing <br>
 ***All Projects:*** https://github.com/Tahir001/Artificial-Intelligence/tree/main/Standford%20ML%20Specialization <br>
+***Courses:*** Supervised Machine Learning (Regression and Classification), Advanced Learning Algorithms, Unsupervised Learning, Reccomenders and Rienforcement Learning 
 
 Contents / Algorithms: 
 1. Linear Regression 
