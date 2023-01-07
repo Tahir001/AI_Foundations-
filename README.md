@@ -5,10 +5,28 @@ The following is a ML repository where I've included my notes on various Standfo
 
 Machine Learning Specialization -- Offered by Standford 
 
-***Personal Notes:*** https://www.notion.so/tahirm/Machine-Learning-Specialization-Offered-by-Deep-learning-AI-68e6cc23bc034453b7bdbf4d8161d048 <br>
-***My coded projects:*** https://github.com/Tahir001/Artificial-Intelligence/tree/7bd8a9a95bf1833041e74f62e3220bd0af0d9842/Machine_Learning_Specialization <br>
-Concepts Learned: Linear Regression, Logistic Regression, Neural Networks, Gradient Descent, Binary Cross Entropy Loss, Softmax, cross entropy loss, feature mapping, activation function, train-valid-test split, feature engineering, Decision Trees, Data visualization, PCA, reienforcement learning  <br>
-Technical Framework & Tools: Python (Numpy, Sci-kit Learn) 
+***Personal Notes:*** https://drive.google.com/file/d/1p-jURWcMEi7SYH7OzBX0OUGYy3h1WsJV/view?usp=sharing <br>
+***All Projects:*** https://github.com/Tahir001/Artificial-Intelligence/tree/main/Standford%20ML%20Specialization <br>
+
+Contents / Algorithms: 
+1. Linear Regression 
+2. Loss Functions and Gradient Descent 
+2. Logistic Regression
+3. Decision Trees
+4. Neural Networks
+5. Feature Engineering
+6. Overfitting & Underfitting
+7. Regularization & Hyperparameters
+8. Multi-class Classifcation with NNs
+9. Tensorflow (Neural Networks, Autograd, Data Loaders)
+10. Transfer Learning & Debugging ML algorithms
+11. ML Metrics (Accuracy, Precision, Recall, F1-Score, etc)
+12. XGBoost, Random forests, Bagging vs Boosting
+13. K-Means Clutering, Expectation-Maximization Theorm
+14. Anamoly Detection, Multivariate Distributions
+15. Principal Component Analysis (PCA) 
+16. Reccomendation Systems (Content-Based vs Collaborative Filtering)
+17. Reinforcement Learning (Markov Decision Process, Finite and Continous States)
 
 Deep Learning Specialization -- Offered by Standford 
 
